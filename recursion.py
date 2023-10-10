@@ -1,10 +1,4 @@
-'''
-Created on October 12 2022 
-@author:   Eduardo Hernandez 
-Pledge:    I pledge my honor that I have abided by the Stevens Honor System. 
-
-CS115 - Hw 3
-'''
+ 
 # Be sure to submit hw3.py.  Remove the '_template' from the file name.
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
