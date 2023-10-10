@@ -1,9 +1,3 @@
-'''
-Nov 8 2022
-Eduardo Hernandez
-I pledge my honor that I have abided by the Stevens Honor System.
-
-'''
 
 # runLenPlus - exercise for fancy version of run length encoding
 # D. Naumann, rev 1 Nov 2020, E. Terolli, rev 27 Oct 2021
