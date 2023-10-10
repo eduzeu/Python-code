@@ -1,6 +1,4 @@
-#December 2022
-#Eduardo Hernandez
-#I pledge my honor that I have abided by the Stevens Honor System.
+
 
 import math
 
