@@ -1,18 +1,4 @@
-'''
-@author:
-Pledge:
 
-Objective: To become familiar with imperative style and for and while loops.
-
-# Search for "TODO" to find the incomplete functions.
-'''
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' Exercise 1
-' Study function questify(). Then implement questifyAlt() so that it gives
-' the same results as questify(), using map and lambda but no helping function.
-' Hint: adapt the body of addQuestmark().
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-from functools import reduce
 
 def questify(str_list):
     '''Assume str_list is a list of strings. Returns a list of
