@@ -1,8 +1,3 @@
-'''
-Eduardo Hernandez
-I pledge my honor that I have abided by the Stevens Honor System.
-9th December 2022
-'''
 
 DAYS_IN_MONTH = (0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
 
