@@ -1,8 +1,3 @@
-'''
-Created on: November 2022
-Authors: Daniel Fong, Eduardo Hernandez, Samuel Preston
-I pledge my honor that I have abided by the Stevens Honor System.
-'''
 
 import os
 
