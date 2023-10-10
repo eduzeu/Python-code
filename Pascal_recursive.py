@@ -1,9 +1,3 @@
-'''
-
-Eduardo Hernandez
-I pledge my honor that I have abided by the Stevens Honor System.
-
-'''
 
 def pascalSumList(pascalList):
     '''Returns the list of sums of adjacent terms in the original
